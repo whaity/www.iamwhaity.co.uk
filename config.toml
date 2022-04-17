@@ -1,0 +1,31 @@
+baseURL = 'https://www.iamwhaity.co.uk/'
+languageCode = 'en-gb'
+title = 'Mostly Harmless'
+
+# New Theme
+theme = "cactus"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/whaity"
