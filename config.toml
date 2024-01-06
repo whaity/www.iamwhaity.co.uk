@@ -2,6 +2,7 @@ baseURL = 'https://www.iamwhaity.co.uk/'
 languageCode = 'en-gb'
 title = 'Mostly Harmless'
 
+enableInlineShortcodes=true
 # New Theme
 theme = "cactus"
 
