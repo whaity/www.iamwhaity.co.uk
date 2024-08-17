@@ -3,7 +3,7 @@ languageCode = 'en-gb'
 title = 'Mostly Harmless'
 
 enableInlineShortcodes=true
-# New Theme
+
 theme = "hugo-theme-yue"
 
 # Main menu which appears below site header.

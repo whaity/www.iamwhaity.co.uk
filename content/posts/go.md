@@ -1,6 +1,6 @@
 ---
 title: Learning Go
-date: 2024-01-03
+date: "2024-01-03"
 draft: false
 tags:
 - programming
