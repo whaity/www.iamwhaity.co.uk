@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "hugo@latest": {
+      "last_modified": "2024-08-14T02:42:29Z",
+      "resolved": "github:NixOS/nixpkgs/daf7bb95821b789db24fc1ac21f613db0c1bf2cb#hugo",
+      "source": "devbox-search",
+      "version": "0.132.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/27497vy50l9brkx5ynpnrlg0zkv6nfb1-hugo-0.132.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/27497vy50l9brkx5ynpnrlg0zkv6nfb1-hugo-0.132.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zw263jgfckrfvx2z6x7akfcyl9zdnmks-hugo-0.132.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zw263jgfckrfvx2z6x7akfcyl9zdnmks-hugo-0.132.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mclar9wm09nip2nnzga47p7vxk78n301-hugo-0.132.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mclar9wm09nip2nnzga47p7vxk78n301-hugo-0.132.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4lwx6zzlnbax4md3lbmfdp8iiwbrd4zh-hugo-0.132.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4lwx6zzlnbax4md3lbmfdp8iiwbrd4zh-hugo-0.132.1"
+        }
+      }
+    }
+  }
+}

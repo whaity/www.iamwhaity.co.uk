@@ -4,7 +4,7 @@ title = 'Mostly Harmless'
 
 enableInlineShortcodes=true
 # New Theme
-theme = "cactus"
+theme = "hugo-theme-yue"
 
 # Main menu which appears below site header.
 [[menu.main]]
