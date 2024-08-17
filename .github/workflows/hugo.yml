@@ -42,7 +42,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           submodules: true
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4

@@ -1,7 +1,7 @@
 ---
 title: Infrastructure as Code
 date: "2023-08-01"
-draft: true
+draft: false
 tags:
 - ansible
 - devops
